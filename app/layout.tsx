@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Developer Portfolio | Full Stack Developer",
+  title: " | Developer Portfolio | ",
   description:
     "Professional portfolio showcasing modern web development skills, projects, and experience in React, Next.js, TypeScript, and more.",
   keywords: ["developer", "portfolio", "react", "nextjs", "typescript", "full stack"],
@@ -17,13 +17,13 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://yourportfolio.com",
-    title: "Developer Portfolio | Full Stack Developer",
+    title: "Developer Portfolio ",
     description: "Professional portfolio showcasing modern web development skills and projects.",
     siteName: "Developer Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Developer Portfolio | Full Stack Developer",
+    title: " | Developer Portfolio | ",
     description: "Professional portfolio showcasing modern web development skills and projects.",
     creator: "@yourusername",
   },

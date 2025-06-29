@@ -7,9 +7,8 @@ const categories = [
     icon: "🏆",
     items: [
       "Finalist – National Innovation Contest (Real-time EV Tracking System)",
-      "Completed ‘Mastering DSA’ by Abdul Bari",
+      "Participated and excelled at various national level sports championships",
       "Built iOS apps using SwiftUI + Xcode",
-      "Deployed EV platform preview with React + Netlify",
       "Certified in Agile PM and Git Essentials",
     ],
   },
@@ -17,12 +16,12 @@ const categories = [
     title: "Hobbies & Interests",
     icon: "🎯",
     items: [
-      "Exploring AI/ML applications",
-      "Building clean & intuitive UIs",
+      "Professional Athlete | Badminton",
+      "Love music",
       "Gaming – Strategy & FPS 🎮",
-      "Reading tech blogs & dev docs",
-      "Travel & culture exploration ✈️",
-      "Coffee-fueled coding ☕",
+      "Curious to apply new tech stack",
+      "Travel & heritage exploration ",
+      "Fitness freak ",
     ],
   },
 ]
